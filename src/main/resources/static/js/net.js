@@ -65,7 +65,7 @@ class Net {
 
 	constructor() {
 
-		this.host = '54.89.219.31';
+		this.host = window.location.hostname;
     	this.port = 80;
 
 		this.cfg = {
