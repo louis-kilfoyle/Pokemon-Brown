@@ -7,4 +7,8 @@ Download the game to a server with Java 8 and Maven installed. Navigate to the r
 # Config
 Various config files are available in /config/. Some additional config options are hardcoded and can be modified in the source.
 
+# Comments
+
+The game isn't quite bug free. Graphical glitches occasionally require page refreshes to resolve. A time crunch left some final pieces poorly written or broken.
+
 Please feel free to reach out to me at louis_kilfoyle@brown.edu with any questions.
